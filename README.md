@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there, I'm Caper 👋
 
 A full time front-end & electron developer and a little bit node back-end developer
