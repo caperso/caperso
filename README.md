@@ -6,7 +6,7 @@ A full time front-end & electron developer and a little bit node back-end develo
 
 👎Dislikes:🧟 🌡️ 🚬 🍺
 
-🌱 I’m currently learning everything about iot;
+🌱 I’m learning everything ;
 
 **Languages and Tools:**  
 
